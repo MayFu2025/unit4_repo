@@ -2,7 +2,6 @@
 <hr>
 
 ### Prompt
-#### No slides uploaded yet
 ![](images/quiz_058_slide.png)
 *fig. 1* **Screenshot of quiz slides**
 

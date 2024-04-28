@@ -1,10 +1,10 @@
-# Quiz 057
+# Quiz 066
 <hr>
 
 ### Prompt
-![](images/quiz_057_slide.png)
+![](images/quiz_066_slide.png)
 *fig. 1* **Screenshot of quiz slides**
 
 ### Solution
-![](images/quiz_057_solution.jpeg)
+![](images/quiz_066_solution.jpeg)
 *fig. 2* **Screenshot of working/solution**
